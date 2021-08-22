@@ -13,5 +13,14 @@ The user can add candles to the stock, distribute candles to a store (which remo
 
 IMPORTANT:
 You need to download sqlite-jdbc jar file and then add it as a dependency in your IDE. If not, the program will be unable to connect to the database.
+
 Loginapp.java inside of frontend is the main class
+
+What I learned:
+- Should have use JSON files instead of SQLITE to store and retrieve data. It would also allow me to save candles as Java objects.
+- Program requires better Object Orientation, there are instances of repeated code that could be simplified.
+- Code is very hard to follow because the GUI was built using windows builders (auto-generated code). 
+- There should be a more strict distinction between code that is for GUI and code that adds functionality to the program.
+
+
 
