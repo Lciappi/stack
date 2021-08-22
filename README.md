@@ -13,3 +13,5 @@ The user can add candles to the stock, distribute candles to a store (which remo
 
 IMPORTANT:
 You need to download sqlite-jdbc jar file and then add it as a dependency in your IDE. If not, the program will be unable to connect to the database.
+Loginapp.java inside of frontend is the main class
+
