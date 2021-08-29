@@ -17,10 +17,10 @@ You need to download sqlite-jdbc jar file and then add it as a dependency in you
 Loginapp.java inside of frontend is the main class
 
 What I learned:
-- Should have use JSON files instead of SQLITE to store and retrieve data. It would also allow me to save candles as Java objects.
-- Program requires better Object Orientation, there are instances of repeated code that could be simplified.
+- Should have used JSON files instead of SQLITE to store and retrieve data. It would also allow me to save candles as Java objects.
+- Program requires better Object Orientation, there are instances of repeated code that could be simplified, and a missed of opportunity of treating candles as objects.
 - Code is very hard to follow because the GUI was built using windows builders (auto-generated code). 
-- There should be a more strict distinction between code that is for GUI and code that adds functionality to the program.
+- There should be a more strict distinction between code that is for GUI and code that adds functionality to the program (i.e add data to database).
 
 
 
