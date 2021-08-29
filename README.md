@@ -21,6 +21,7 @@ What I learned:
 - Program requires better Object Orientation, there are instances of repeated code that could be simplified, and a missed of opportunity of treating candles as objects.
 - Code is very hard to follow because the GUI was built using windows builders (auto-generated code). 
 - There should be a more strict distinction between code that is for GUI and code that adds functionality to the program (i.e add data to database).
+- Better error/exception handling
 
 
 
